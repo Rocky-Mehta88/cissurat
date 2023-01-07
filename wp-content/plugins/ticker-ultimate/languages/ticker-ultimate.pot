@@ -1,0 +1,479 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Post Ticker Ultimate\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-16 04:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: includes/admin/settings/how-it-work.php:165
+msgid "100% Multi language"
+msgstr ""
+
+#: includes/admin/metabox/wptu-post-setting-metabox-pro.php:23
+msgid ""
+"2 (Post in ticker mode, RSS feed in ticker mode). In lite version only "
+"layout."
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:153
+msgid "2 predefined template for ticker post."
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:154
+msgid "2 shortcodes [wp_ticker], [wp_ticker_rss]"
+msgstr ""
+
+#: includes/admin/metabox/wptu-post-setting-metabox-pro.php:31
+msgid "2. In lite version only one design."
+msgstr ""
+
+#: includes/admin/metabox/wptu-post-sett-metabox.php:31
+msgid ""
+"Add custom link for the ticker post. eg : https://www.essentialplugin.com"
+msgstr ""
+
+#: includes/wptu-post-types.php:79
+msgid "Add New Category"
+msgstr ""
+
+#: includes/wptu-post-types.php:27
+msgid "Add New Ticker"
+msgstr ""
+
+#: includes/wptu-post-types.php:26
+msgid "Add Ticker"
+msgstr ""
+
+#: includes/wptu-post-types.php:74
+msgid "All Category"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:56
+msgid "All Shortcodes"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:118
+msgid "Boost Design"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:117
+msgid "Boost design and best solution for your website."
+msgstr ""
+
+#: includes/wptu-post-types.php:71 includes/wptu-post-types.php:72
+msgid "Category"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:68
+msgid "Check Documentation"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:163
+msgid "Custom CSS option"
+msgstr ""
+
+#: includes/wptu-post-types.php:115
+msgid "Custom field deleted."
+msgstr ""
+
+#: includes/wptu-post-types.php:114
+msgid "Custom field updated."
+msgstr ""
+
+#: includes/admin/metabox/wptu-post-setting-metabox-pro.php:61
+msgid "Custom Icon Color"
+msgstr ""
+
+#: includes/admin/metabox/wptu-post-setting-metabox-pro.php:28
+msgid "Designs"
+msgstr ""
+
+#: includes/admin/metabox/wptu-post-setting-metabox-pro.php:73
+msgid "Display RSS feed as a ticker view."
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:161
+msgid ""
+"Divi Page Builder Native Support.<span class=\"wpos-new-feature\">New</span>"
+msgstr ""
+
+#: includes/admin/metabox/wptu-post-setting-metabox-pro.php:82
+msgid ""
+"Do not display the ticker & Do not display the ticker for particular "
+"categories."
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:65
+msgid "Documentation"
+msgstr ""
+
+#: includes/wptu-post-types.php:77
+msgid "Edit Category"
+msgstr ""
+
+#: includes/wptu-post-types.php:28
+msgid "Edit Ticker"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:136
+#, php-format
+msgid ""
+"Enjoyed this plugin? You can help by rate this plugin <a href=\"%s\" "
+"target=\"_blank\">5 stars!"
+msgstr ""
+
+#: includes/admin/metabox/wptu-post-sett-metabox.php:42
+msgid "Enter ticker description using default wordpress content editor."
+msgstr ""
+
+#: includes/admin/settings/premium.php:15
+msgid "Essential Plugin Bundle"
+msgstr ""
+
+#: includes/admin/metabox/wptu-post-setting-metabox-pro.php:79
+msgid "Exclude Ticker and Exclude Some Categories"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:164
+msgid "Fully responsive"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:162
+msgid ""
+"Fusion Page Builder (Avada) native support. <span class=\"wpos-new-feature\">"
+"New</span>"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:167
+msgid ""
+"Gain access to <strong>Ticker Ultimate</strong> included in <br /><strong>"
+"Essential Plugin Bundle"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:43
+msgid "Getting Started"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:168
+msgid "Go Premium "
+msgstr ""
+
+#: includes/admin/metabox/wptu-post-setting-metabox-pro.php:55
+msgid ""
+"Gutenberg Block, Elementor, Bevear Builder, SiteOrigin, Divi, Visual "
+"Composer and Fusion Page Builder Support"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:81
+msgid "Gutenberg Support"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:160
+msgid ""
+"Gutenberg, Elementor, Beaver and SiteOrigin Page Builder Support. <span "
+"class=\"wpos-new-feature\">New</span>"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:132
+msgid "Help to improve this plugin!"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:89
+msgid "How it Work"
+msgstr ""
+
+#: includes/admin/class-wptu-admin.php:40
+msgid "How It Works"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:35
+msgid "How It Works - Display and shortcode"
+msgstr ""
+
+#: includes/admin/class-wptu-admin.php:40
+msgid "How it works, our plugins and offers"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.essentialplugin.com/"
+msgstr ""
+
+#: wp-ticker.php:146
+#, php-format
+msgid ""
+"It looks like you had PRO version %s of this plugin activated. To avoid "
+"conflicts the extra version has been deactivated and we recommend you delete "
+"it."
+msgstr ""
+
+#: includes/shortcode/wptu-ticker-shortcode.php:40
+msgid "Latest News"
+msgstr ""
+
+#: includes/admin/metabox/wptu-post-setting-metabox-pro.php:20
+msgid "Layouts"
+msgstr ""
+
+#: includes/admin/class-wptu-admin.php:75
+msgid "More Premium - Settings"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:109
+msgid "Need Support & Solutions?"
+msgstr ""
+
+#: includes/wptu-post-types.php:80
+msgid "New Category Name"
+msgstr ""
+
+#: includes/wptu-post-types.php:29
+msgid "New Ticker"
+msgstr ""
+
+#: includes/wptu-post-types.php:32
+msgid "No Tickers found"
+msgstr ""
+
+#: includes/wptu-post-types.php:33
+msgid "No Tickers found in Trash"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:158
+msgid "Order / Order By Parameters"
+msgstr ""
+
+#: includes/admin/metabox/wptu-post-setting-metabox-pro.php:52
+msgid "Page Builder Support"
+msgstr ""
+
+#: includes/wptu-post-types.php:75
+msgid "Parent Category"
+msgstr ""
+
+#: includes/wptu-post-types.php:76
+msgid "Parent Category:"
+msgstr ""
+
+#: includes/admin/metabox/wptu-post-setting-metabox-pro.php:47
+msgid ""
+"Play with all shortcode parameters with preview panel. No documentation "
+"required."
+msgstr ""
+
+#. Name of the plugin
+msgid "Post Ticker Ultimate"
+msgstr ""
+
+#: includes/admin/metabox/wptu-post-sett-metabox.php:37
+#: includes/admin/metabox/wptu-post-setting-metabox-pro.php:20
+#: includes/admin/metabox/wptu-post-setting-metabox-pro.php:28
+#: includes/admin/metabox/wptu-post-setting-metabox-pro.php:36
+#: includes/admin/metabox/wptu-post-setting-metabox-pro.php:44
+#: includes/admin/metabox/wptu-post-setting-metabox-pro.php:52
+#: includes/admin/metabox/wptu-post-setting-metabox-pro.php:61
+#: includes/admin/metabox/wptu-post-setting-metabox-pro.php:70
+#: includes/admin/metabox/wptu-post-setting-metabox-pro.php:79
+msgid "PRO"
+msgstr ""
+
+#: includes/admin/metabox/wptu-post-sett-metabox.php:27
+msgid "Read More Link"
+msgstr ""
+
+#: includes/admin/metabox/wptu-post-setting-metabox-pro.php:70
+msgid "RSS Feed as ticker mode"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:157
+msgid "RSS Feed as ticker mode "
+msgstr ""
+
+#: includes/wptu-post-types.php:73
+msgid "Search Category"
+msgstr ""
+
+#: includes/wptu-post-types.php:31
+msgid "Search Ticker"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:156
+#: includes/admin/metabox/wptu-post-setting-metabox-pro.php:44
+msgid "Shortcode Generator "
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:47
+msgid "Step-1. Go to \"Ticker Ultimate Pro -> Add Ticker\"."
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:93
+msgid "Step-1. Go to the Gutenberg editor of your page."
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:48
+msgid "Step-2. Add Ticker title and read more link under Ticker title."
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:94
+msgid "Step-2. Search \"ticker\" keyword in the gutenberg block list."
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:95
+msgid ""
+"Step-3. Add any block of ticker and you will find its relative options on "
+"the right end side."
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:49
+msgid "Step-3. Paste below shortcode to display your post in ticker mode."
+msgstr ""
+
+#: wp-ticker.php:145
+#, php-format
+msgid "Thank you for activating %s"
+msgstr ""
+
+#: includes/wptu-post-types.php:24 includes/wptu-post-types.php:25
+msgid "Ticker"
+msgstr ""
+
+#: includes/shortcode/wptu-ticker-shortcode.php:23
+#: includes/shortcode/wptu-ticker-shortcode.php:31
+msgid "Ticker - Shortcode"
+msgstr ""
+
+#: includes/wptu-post-types.php:81
+msgid "Ticker Category"
+msgstr ""
+
+#: includes/admin/metabox/wptu-post-sett-metabox.php:37
+msgid "Ticker Description"
+msgstr ""
+
+#: includes/wptu-post-types.php:123
+msgid "Ticker draft updated."
+msgstr ""
+
+#: includes/wptu-post-types.php:118
+msgid "Ticker published."
+msgstr ""
+
+#: includes/wptu-post-types.php:117
+#, php-format
+msgid "Ticker restored to revision from %s"
+msgstr ""
+
+#: includes/wptu-post-types.php:119
+msgid "Ticker saved."
+msgstr ""
+
+#: includes/wptu-post-types.php:121
+#, php-format
+msgid "Ticker scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: includes/admin/class-wptu-admin.php:73
+msgid "Ticker Settings - Settings"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:59
+msgid "Ticker Shortcode"
+msgstr ""
+
+#: includes/wptu-post-types.php:120
+msgid "Ticker submitted."
+msgstr ""
+
+#: includes/admin/settings/premium.php:15
+msgid "Ticker Ultimate with "
+msgstr ""
+
+#: includes/wptu-post-types.php:113 includes/wptu-post-types.php:116
+msgid "Ticker updated."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Ultimate Post Ticker Plugin : Add and display horizontal or vertical ticker "
+"on your website that work with WordPress posts and Custom Post Type with the "
+"help of shortcode. Also work with Gutenberg shortcode block."
+msgstr ""
+
+#: includes/wptu-post-types.php:78
+msgid "Update Category"
+msgstr ""
+
+#: includes/admin/metabox/wptu-post-sett-metabox.php:43
+#, php-format
+msgid ""
+"Upgrade to <a href=\"%s\" target=\"_blank\">Premium Version</a> to get this "
+"option."
+msgstr ""
+
+#: includes/admin/metabox/wptu-post-setting-metabox-pro.php:14
+#, php-format
+msgid ""
+"Upgrade to <a href=\"%s\" target=\"_blank\">Pro Version</a> with Essential "
+"Plugin Bundle to boost your website design.."
+msgstr ""
+
+#: includes/admin/class-wptu-admin.php:43
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: includes/admin/class-wptu-admin.php:43
+msgid "Upgrade to PRO - Ticker Ultimate"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:148
+msgid "Upgrate to Pro"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:169
+msgid "View PRO Demo "
+msgstr ""
+
+#: includes/wptu-post-types.php:30
+msgid "View Ticker"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:159
+msgid "Visual Composer support."
+msgstr ""
+
+#. Author of the plugin
+msgid "WP OnlineSupport, Essential Plugin"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:155
+msgid "WP Templating Features"
+msgstr ""
+
+#: includes/admin/metabox/wptu-post-setting-metabox-pro.php:36
+msgid "WP Templating Features "
+msgstr ""
+
+#: includes/wptu-post-types.php:35
+msgid "WP Ticker"
+msgstr ""
+
+#: includes/admin/supports/gutenberg-block.php:149
+msgid "WPOS Blocks"
+msgstr ""
+
+#: includes/admin/metabox/wptu-post-setting-metabox-pro.php:39
+msgid "You can modify plugin html/designs in your current theme."
+msgstr ""
+
+#: includes/admin/metabox/wptu-post-setting-metabox-pro.php:64
+msgid "you can set custom icon color."
+msgstr ""
